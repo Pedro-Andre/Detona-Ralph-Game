@@ -15,3 +15,5 @@ Este é um projeto do Bootcamp **Potência Tech iFood**, de um jogo 2D desenvolv
 - **HTML5**: estrutura da página e elementos do jogo.
 - **CSS3**: estilização dos elementos e animações.
 - **JavaScript (vanilla)**: lógica do jogo, timer, pontuação e controle de vidas.
+## Preview
+![preview](https://github.com/user-attachments/assets/476746c1-33d6-42c2-a373-f113a4ff00b7)
